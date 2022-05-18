@@ -1,0 +1,25 @@
+https://towardsdatascience.com/facial-mapping-landmarks-with-dlib-python-160abcf7d672
+https://robotos.in/uroki/obnaruzhenie-i-raspoznavanie-litsa-na-python
+https://github.com/ageitgey/face_recognition
+
+
+
+сервер
+89.108.115.144
+root
+JyLdr@-Yzm4a
+
+ssh root@89.108.115.144
+
+
+Логин: mysqladmin
+Пароль: seing3Jooghi
+
+
+grant all privileges on *.* to 'egor'@'%' identified by '555555';
+
+GRANT ALL ON *.* TO egor@'%' IDENTIFIED BY "555555";
+
+GRANT ALL ON dbname.* TO foo@'%' IDENTIFIED BY 'my_passwd';
+
+telnet 89.108.115.144 3306

@@ -1,0 +1,1 @@
+TYPE_TIME = "%d.%m.%Y_%H:%M:%S"# Остататок при котором товар отправляется в архивMIN_STOCK = 3host = '89.108.98.131'user_ = 'egor'passwd = '555555'database = 'sites'
